@@ -6,7 +6,11 @@ visualizations. Currently, the following projects are included:
 
 ## USA manufacturing
 
-In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are represented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  
+In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are represented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  The finished visualization can be found at https://public.tableau.com/profile/cjstoneking#!/vizhome/US_manufacturing_2012/Dashboard1, 
+
+here is a preview image:
+
+![tableau_USA_manufacturing](USA_manufacturing/USA_manufacturing.png?raw=true)
 
 The dataset consists of numbers of manufacturing businesses (called "Establishments" in census terminology),  
 which are broken down by:  
@@ -24,7 +28,7 @@ I run some preprocessing on the ECN_2012_US_31SA1_with_ann.csv file to get numbe
 After preprocessing, I visualized some aspects of the data using Tableau. The visualization can be found at:  
 
 
-https://public.tableau.com/profile/cjstoneking#!/vizhome/US_manufacturing_2012/Dashboard1
+
 
 
 ## European football transfers
