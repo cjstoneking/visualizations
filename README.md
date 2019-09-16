@@ -42,6 +42,10 @@ The visualization can be found at:
 
 https://public.tableau.com/profile/cjstoneking#!/vizhome/european_football_transfers/Dashboard1
 
+here is a preview image:
+
+![tableau_euro_football](european_football_transfers/euro_football_small.png?raw=true)
+
 
 
 ## NYT bestsellers
