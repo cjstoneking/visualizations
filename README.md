@@ -10,9 +10,9 @@ In this project, I take a large dataset from the 2012 US Census and use it to ge
 
 here is a preview image:
 
-<!--- ![tableau_USA_manufacturing](USA_manufacturing/usa_manufacturing.png?raw=true) ---> 
+![tableau_USA_manufacturing](USA_manufacturing/usa_manufacturing_small.png?raw=true)
 
-<img src="https://github.com/cjstoneking/visualizations/tree/master/USA_manufacturing/usa_manufacturing.png" width="100" height="200">
+
 
 The dataset consists of numbers of manufacturing businesses (called "Establishments" in census terminology),  
 which are broken down by:  
