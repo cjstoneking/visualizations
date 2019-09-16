@@ -1,4 +1,4 @@
-# visualizations
+# Visualizations
 
 
 This is a collection of multiple projects in which I use python for data cleaning and initial analysis, then use tableau to create
