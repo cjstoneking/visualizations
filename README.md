@@ -6,7 +6,7 @@ visualizations. Currently, the following projects are included:
 
 ## USA manufacturing
 
-In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are reprented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  
+In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are represented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  
 
 The dataset consists of numbers of manufacturing businesses (called "Establishments" in census terminology),  
 which are broken down by:  
