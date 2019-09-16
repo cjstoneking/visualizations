@@ -12,7 +12,7 @@ here is a preview image:
 
 <!--- ![tableau_USA_manufacturing](USA_manufacturing/usa_manufacturing.png?raw=true) ---> 
 
-<img src="https://github.com/cjstoneking/visualizations/USA_manufacturing/usa_manufacturing.png" width="100" height="200">
+<img src="https://github.com/cjstoneking/visualizations/tree/master/USA_manufacturing/usa_manufacturing.png" width="100" height="200">
 
 The dataset consists of numbers of manufacturing businesses (called "Establishments" in census terminology),  
 which are broken down by:  
