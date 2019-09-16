@@ -29,4 +29,13 @@ https://public.tableau.com/profile/cjstoneking#!/vizhome/US_manufacturing_2012/D
 
 ## European football transfers
 
+In this project, I scrape data on player transfers within european football from https://www.soccernews.com.
+I run some preprocessing to convert the data provided (team names) to geographic coordinates, then visualize the web of transfers using Tableau.
+
+The visualization can be found at:
+
+https://public.tableau.com/profile/cjstoneking#!/vizhome/european_football_transfers/Dashboard1
+
+
+
 ## NYT bestsellers
