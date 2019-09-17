@@ -6,7 +6,8 @@ visualizations. Currently, the following projects are included:
 
 ## NYT bestsellers
 
-In this project, I analyzed the collected New York Times (NYT) bestseller list data from 2008 - 2018. These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1
+In this project, I analyzed the collected New York Times (NYT) bestseller list data from 2008 - 2018.  
+These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1
 
 Short summary of the preprocessing:
 
