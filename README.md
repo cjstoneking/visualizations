@@ -52,4 +52,15 @@ here is a preview image:
 
 In this project, I analyzed the collected New York Times (NYT) bestseller list data from 2008 - 2018. These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1
 
+Short summary of the preprocessing:
+
 The data consist of entries on the bestseller list, with book titles, author names, publishers and relative ranks. They are presumably manually entered, and some fields, particularly the publisher, have a number of spelling variants. I used an approach based on Levenshtein string distance to flag likely variant spellings, then replaced these with the most common spelling as appropriate. 
+The books also have short descriptions, and I used keyword detection to try to infer the genre/theme of books from these descriptions. 
+Finally, I collapsed the multiple entries per week on the bestseller list into a single entry per unique book.
+
+After preprocessing, I visualized the data using Tableau. The visualization can be found at 
+
+here is a preview image:
+
+
+![tableau_euro_football](NYT_bestsellers/NYT_bestsellers_image.png?raw=true)
