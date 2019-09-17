@@ -50,8 +50,8 @@ I ran some preprocessing on the ECN_2012_US_31SA1_with_ann.csv file to get numbe
 
 ## European football transfers
 
-In this project, I scrape data on player transfers within european football from https://www.soccernews.com.
-I run some preprocessing to convert the data provided (team names) to geographic coordinates, then visualize the web of transfers using Tableau.
+For this project, I first scraped data on player transfers within european football from https://www.soccernews.com.  
+I ran some preprocessing to convert the team names to geographic coordinates, then visualized the web of transfers using Tableau. I also analyzed to what extent 
 
 The visualization can be found at:
 
