@@ -7,7 +7,7 @@ visualizations. Currently, the following projects are included:
 ## NYT bestsellers
 
 In this project, I analyzed the collected New York Times (NYT) bestseller list data from 2008 - 2018.  
-These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1
+These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1.
 
 Short summary of the preprocessing:
 
@@ -15,9 +15,9 @@ The data consist of entries on the bestseller list, with book titles, author nam
 The books also have short descriptions, and I used keyword detection to try to infer the genre/theme of books from these descriptions. 
 Finally, I collapsed the multiple entries per week on the bestseller list into a single entry per unique book.
 
-After preprocessing, I visualized the data using Tableau. The visualization can be found at https://public.tableau.com/profile/cjstoneking#!/vizhome/NYT_bestsellers/Dashboard1
+After preprocessing, I visualized the data using Tableau. The visualization can be found at https://public.tableau.com/profile/cjstoneking#!/vizhome/NYT_bestsellers/Dashboard1.
 
-here is a preview image:
+Here is a preview image:
 
 
 ![NYT_bestsellers](NYT_bestsellers/NYT_bestsellers_image.png?raw=true)
@@ -25,9 +25,9 @@ here is a preview image:
 
 ## USA manufacturing
 
-In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are represented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  The finished visualization can be found at https://public.tableau.com/profile/cjstoneking#!/vizhome/US_manufacturing_2012/Dashboard1, 
+In this project, I take a large dataset from the 2012 US Census and use it to get a better understanding of how different manufacturing areas are represented in different US states. This involves several steps of preprocessing in Python, followed by visualization in Tableau.  The finished visualization can be found at https://public.tableau.com/profile/cjstoneking#!/vizhome/US_manufacturing_2012/Dashboard1.
 
-here is a preview image:
+Here is a preview image:
 
 ![tableau_USA_manufacturing](USA_manufacturing/usa_manufacturing_small.png?raw=true)
 
