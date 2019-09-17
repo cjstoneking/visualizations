@@ -49,3 +49,7 @@ here is a preview image:
 
 
 ## NYT bestsellers
+
+In this project, I analyzed the collected New York Times (NYT) bestseller list data from 2008 - 2018. These data are available from the NYT API website, I used a file that was made available at https://www.kaggle.com/cmenca/new-york-times-hardcover-fiction-best-sellers/version/1
+
+The data consist of entries on the bestseller list, with book titles, author names, publishers and relative ranks. They are presumably manually entered, and some fields, particularly the publisher, have a number of spelling variants. I used an approach based on Levenshtein string distance to flag likely variant spellings, then replaced these with the most common spelling as appropriate. 
